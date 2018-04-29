@@ -1,6 +1,10 @@
 # Iceberg-Challenge-CNN-Model
 let's predict whether an image is "iceberg" or "ship"
 
+## Download the data from kaggle
+Please download the data used on this project from kaggle and place it on the folder called "data"
+https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
+
 ## Iceberg Classifier Challenge
 Let's predict whether an image is a ship or an iceberg.
 
