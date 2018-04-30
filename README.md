@@ -2,7 +2,7 @@
 let's predict whether an image is "iceberg" or "ship"
 
 ## Download the data from kaggle
-Please download the data used on this project from kaggle and place it on the folder called "data"
+Please download the data used on this project from kaggle
 https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/data
 
 ## Iceberg Classifier Challenge
